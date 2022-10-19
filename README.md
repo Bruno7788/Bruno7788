@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  💌 Contato:
+  Contato:
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/bruno_tws/" alt="Instagram">
+  <a href="https://www.instagram.com/henrii_075/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
   <a href="https://www.linkedin.com/in/bruno-henrique-42350b209" alt="Linkedin">
